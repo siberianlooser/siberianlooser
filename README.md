@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**siberianlooser/siberianlooser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center" >
+	<img src="flažok2.png" width="100">
+	<img src="dostojevskij.png" width="100">
+  <img src="flažok1.png" width="100">
+	<p>«Так просто быть умным. Я свой мозг оставил где-то на Думской»</p>
+  <p>✦balbescore✦</p>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<div align="left">
+  <p>:bangbang: Utopist and people lover</p>
+  <p>:open_file_folder: Beginning Game Director and scriptwriter. Github for FOSS collection and cuz’ learning in programming college (should have gone to design or smth else);</p>
+  <p>:speaking_head: I'm speaking English(B1) and Russian(Native). Want to learn German and Esperanto (can’t get start);</p>
+  <p>:love_letter: Esperanto as a second language for Europe (worldwide)</p>
+  <p>:sparkles: Will live in trash in future!</p>
+</div>
